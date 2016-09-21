@@ -1,8 +1,3 @@
-defacto2-from-1998-september-8
-==============================
+# Defacto2 website snapshot from late 1998
 
-The complete HTML source to the Defacto2 website from 8th September 1998.
-
-This code is online for historical purposes.
-
-The hosted code can be viewed at http://http://www.defacto2.net/wayback/defacto2-from-1998-september-8/index.html
+The complete HTML source to the Defacto2 website from 26th September 1999. This code is online as a historical reference and [it can be viewed online](http://www.defacto2.net/wayback/defacto2-from-1998-september-8/index.html).
